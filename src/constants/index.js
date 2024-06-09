@@ -1,4 +1,4 @@
-export const apiKey = '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';
+export const apiKey = 'YOUR_API_KEYS';
 
 export const dummyMessage = [
     {
